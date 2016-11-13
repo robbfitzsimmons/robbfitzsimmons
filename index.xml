@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robb Fitzsimmons</title>
+    <link>https://robbfitzsimmons.com/index.xml</link>
+    <description>Recent content on Robb Fitzsimmons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Robb Fitzsimmons</copyright>
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Basecamp: Pricing</title>
+      <link>https://robbfitzsimmons.com/publication/basecamp/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://robbfitzsimmons.com/publication/basecamp/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;This is a case study and primer on data-driven software pricing, taught to students at Harvard Business School.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cb.hbsp.harvard.edu/cbmp/product/817067-PDF-ENG&#34;&gt;Description from the case catalog:&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;learning-objective&#34;&gt;Learning objective:&lt;/h3&gt;
+
+&lt;p&gt;To examine and discuss the process, results, and implications of a data-driven pricing analysis. To illustrate links between a venture&amp;rsquo;s product policy, target customers, funding sources, management style, promotional policies, and pricing approach. To discuss the role, limits, and requirements of tiered pricing policies.&lt;/p&gt;
+
+&lt;h3 id=&#34;subjects-covered&#34;&gt;Subjects covered:&lt;/h3&gt;
+
+&lt;p&gt;Analysis; Customer acquisition; Customer retention; Customers; Data; Entrepreneurial management; Entrepreneurship; Market research; Marketing; Pricing; Product management; Sales; Sales management; Testing; Value proposition; Values&lt;/p&gt;
+
+&lt;h3 id=&#34;setting&#34;&gt;Setting:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Geographic: United States&lt;/li&gt;
+&lt;li&gt;Company Employee Count: Small&lt;/li&gt;
+&lt;li&gt;Event Year Begin: 2004&lt;/li&gt;
+&lt;li&gt;Event Year End: 2016&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proximate</title>
+      <link>https://robbfitzsimmons.com/project/proximate/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://robbfitzsimmons.com/project/proximate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quaker Oats, the Food and Drug Administration, and the Market Value of Scientific Evidence 1984 to 2010</title>
+      <link>https://robbfitzsimmons.com/publication/quaker/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://robbfitzsimmons.com/publication/quaker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

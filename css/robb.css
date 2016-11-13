@@ -1,0 +1,119 @@
+/*////////////////////////////////	 
+//	A few stylesheet overrides.	//
+////////////////////////////////*/
+
+/*
+ FONTS 
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+@import url('https://fonts.googleapis.com/css?family=Taviraj');
+
+html {
+  font-family: 'Taviraj', serif;
+  font-size: 22px;
+  color: #333533;
+  line-height: 1.65;
+}
+
+ /* Navigation bar text */
+.navbar-default {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.25;
+  text-rendering: optimizeLegibility;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  margin-bottom: .5rem;
+  line-height: 1.25;
+  color: #242423;
+  text-rendering: optimizeLegibility;
+}
+
+/* Publication Icons */
+.pub-icon {
+  color: #03396c;
+  font-size: 0.81em;
+  padding-top: 6px;
+}
+
+/*
+ COLORS 
+*/
+
+/* Home Section Background */
+
+.home-section {
+  background-color: #FFFFFF;
+  padding: 110px 0 110px 0;
+}
+
+.home-section:nth-of-type(even) {
+  background-color: #E5E5E5;
+}
+
+/* Hyperlinks */
+
+a,
+a:visited,
+h3.article-title a:hover {
+    color: #242423;
+}
+
+a:hover {
+    color: #F5CB5C;
+}
+
+.navbar-default .navbar-nav li a:hover,
+.btn-primary,
+.btn-primary.btn-outline {
+    color: #A6A2A2;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+  color: #333533;
+  font-weight: 700;
+  background-color: transparent !important; /* Override Bootstrap. */
+}
+
+/* Articles */
+
+.article-title a {
+    color: #151515;
+}
+  
+.article-metadata a {
+    color: #888;
+}
+
+.article-metadata a:hover {
+    color: #A6A2A2;
+}
+
+/* Standard buttons */
+
+.btn-primary,
+.btn-primary.btn-outline {
+    border-color: #A6A2A2;
+}
+
+/* Hover buttons */
+
+.btn-primary.btn-outline:hover {
+    border-color: #A6A2A2;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary:visited,
+.btn-primary.btn-outline:active {
+    background-color: #A6A2A2;
+}
